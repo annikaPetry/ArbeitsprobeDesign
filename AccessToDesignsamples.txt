@@ -1,0 +1,13 @@
+Die Designprobe ist im Rahmen des Software-Engineering-Projektes entstanden. Ich war in diesem 
+Projekt für das Design zuständig, ohne Vorerfahrung. 
+In diesem Semester habe ich über 400 Stunden in das Projekt gesteckt und ausschließlich das 
+Design, Plakate und Organisationsdienste übernommen.
+
+Ziel des Projektes war einen Bike-Sharing-Service zu entwickeln. Die Besonderheit hierbei war,
+dass die Fahrräder auch im Rekuperationsmodus gefahren werden konnten, wodurch der Akku wieder
+aufgeladen wird. Dies geht natürlich mit einer Preissenkung für den Ausfladenden einher. 
+
+Mockups:
+https://www.figma.com/file/ypFB6GDGAeuA8UoXm0IhpV/BergAufBergAPP_final?node-id=7%3A557
+Video:
+https://www.dropbox.com/s/nvs0s63wygxuryv/BergAuf_BergAPP.mp4?dl=0
